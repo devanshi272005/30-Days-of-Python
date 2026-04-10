@@ -1,0 +1,5 @@
+student = ("Devanshi", 20, "CSE")
+
+print("Name:", student[0])
+print("Age:", student[1])
+print("Branch:", student[2])
